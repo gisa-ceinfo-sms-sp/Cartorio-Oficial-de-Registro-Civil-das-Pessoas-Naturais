@@ -9,3 +9,5 @@ Distrito Administrativo (PMSP, 1992)
 Divisão Cartórios (MSP, 1989)
 Cartórios (MSP, 2022)
 CRS (MSP, 2023)
+
+![image](https://github.com/gisa-ceinfo-sms-sp/Cartorio-Oficial-de-Registro-Civil-das-Pessoas-Naturais/assets/75272641/7c96cc0e-1bca-4053-bc0b-2a65a0602bd6)
